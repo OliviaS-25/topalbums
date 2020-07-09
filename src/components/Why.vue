@@ -2,7 +2,7 @@
     <v-container fluid fill-height class="why">
         <v-layout justify-center align-center column pa-5>
             <div class="display-3 font-weight-black black--text text-xs-center">Welcome to Top Albums</div>
-            <br><br>
+            <br>
             <!-- <div class="display-4 font-weight-black white--text text-xs-center mb-3">FOR YOUR TABLE</div> -->
             <!-- <div class="display-2 font-weight-bold white--text text-xs-center">Finally a place to compile your favorite albums by year!</div> -->
             <h3 class="font-weight-medium black--text text-center">Every year we are exposed to a countless amount of music, whether it is through friends, family, curated playlists, strangers, random songs you hear on TV, or even in the grocery store, and you need to ask Siri or Shazam for some help. Many times our favorite songs, albums, and sometimes genres change throughout the year. Albums we binged in January could be a distant memory by the time June rolls around.</h3>
